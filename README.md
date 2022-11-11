@@ -1,2 +1,2 @@
-# ecercicios
+# excercicios
 exemplos dio
